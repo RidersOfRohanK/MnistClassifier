@@ -1,0 +1,3 @@
+#files are too large for git
+/src/mnist_test.csv
+/src/mnist_train.csv
