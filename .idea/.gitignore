@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/vcs.xml
+/runConfigurations.xml
+/modules.xml
+/misc.xml
+#Files are too large for git to hold
+/src/mnist_test.csv
+/src/mnist_train.csv
