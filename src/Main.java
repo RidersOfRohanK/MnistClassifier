@@ -10,8 +10,9 @@ public class Main {
     try {
       trainingSet = load.loadData();
     }catch(FileNotFoundException e){
-      e.printStackTrace();
+      System.out.println("We couldn't find the file");
     }
+    if(trainingSet.size()!=0)
     c.train(trainingSet);
   }
 }
