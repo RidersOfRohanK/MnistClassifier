@@ -8,6 +8,7 @@ public class Classifier {
 
 
   public void train(ArrayList<Image> trainingSet) {
+    //Test
 
   }
 }
